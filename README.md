@@ -1,7 +1,7 @@
-2309106044
-Muhammad Rafif Hanif
-A'23
-To Do List Application
+2309106044 <br>
+Muhammad Rafif Hanif <br>
+A'23 <br>
+To Do List Application <br>
 
 <img width="743" height="845" alt="image" src="https://github.com/user-attachments/assets/d130af36-df22-43b7-9f67-fe89e6a5ca92" />
 <img width="744" height="874" alt="image" src="https://github.com/user-attachments/assets/d55f6358-d4ca-4a71-9b82-263a75ebc427" />
